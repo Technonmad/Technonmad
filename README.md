@@ -2,7 +2,6 @@
 
 <p align="center">
   My name is Tony. I'm a software engineer and student 💀 <br>
-  Always trying to get better and learn something new 💪
 </p>
 
 <p align="center">
